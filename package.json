@@ -20,7 +20,7 @@
     "dexie": "^4.0.10",
     "localforage": "^1.10.0",
     "lucide-react": "^0.469.0",
-    "next": "15.1.2",
+    "next": "15.1.4",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "remark": "^15.0.1",
